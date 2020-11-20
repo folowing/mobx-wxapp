@@ -24,7 +24,9 @@
     "url": "https://github.com/b5156/mobx-wxapp/issues"
   },
   "homepage": "https://github.com/b5156/mobx-wxapp#readme",
-  "dependencies": {},
+  "dependencies": {
+    "mobx-miniprogram": "^4.13.2"
+  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-standard": "^12.0.0",

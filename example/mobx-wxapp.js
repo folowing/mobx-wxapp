@@ -48,7 +48,7 @@ import {
   isBoxedObservable,
   isObservableMap,
   toJS
-} from 'mobx'
+} from 'mobx-miniprogram'
 
 /**
  * 映射所需的数据到data
